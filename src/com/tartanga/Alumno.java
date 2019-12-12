@@ -7,7 +7,6 @@ public class Alumno {
 	
 	
 	public Alumno(String nomAlumno, float notaAlumno) {
-		super();
 		this.nomAlumno = nomAlumno;
 		this.notaAlumno = notaAlumno;
 	}
