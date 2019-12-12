@@ -16,6 +16,7 @@ public class Principal {
 		listaAlumnos.add(new Alumno("Paula", 8));
 		listaAlumnos.add(new Alumno("Raul", 4));
 		listaAlumnos.add(new Alumno("Alain", 3));
+		listaAlumnos.add(new Alumno("Alain", 3));
 		
 		for (Alumno p:listaAlumnos) {
 			
